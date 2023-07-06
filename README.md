@@ -1,10 +1,55 @@
-- 👋 Hi, I’m @Ciamuthama
-- 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-Ciamuthama/Ciamuthama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer with a passion for front-end development and an aspiration to become a React developer. I love crafting beautiful and interactive user interfaces using the latest web technologies.
+
+## 💻 Areas of Expertise
+
+- Front-end development
+
+
+- React.js:
+![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/24px-React-icon.svg.png)
+
+- Node.js:
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/24px-Node.js_logo.svg.png)
+
+- Express.js:
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/24px-Expressjs.png)
+
+- EJS (Embedded JavaScript):
+
+- MongoDB:
+![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/24px-MongoDB_Logo.svg.png)
+
+- Tailwind CSS:
+
+- Bootstrap:
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/24px-Bootstrap_logo.svg.png)
+
+
+
+## 🌟 Notable Projects
+
+Here are some of my notable projects:
+
+1. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
+2. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
+3. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
+
+Feel free to check out these projects to see my work in action!
+
+## 📫 Get in Touch
+
+- Email: muthamapeter79@gmail.com
+- Website: [ciamuthama.vercel.app](http://ciamuthama.vercel.app)
+- Twitter: [@ciamuthama](https://twitter.com/ciamuthama)
+
+I'm open to collaborations and discussions related to front-end development, Node.js, EJS, MongoDB, Tailwind CSS, and Bootstrap.
+
+## 🎨 Hobbies and Interests
+
+Apart from coding, I have a strong interest in graphic design, video editing, and photography. In my free time, you'll often find me exploring new creative endeavors and honing my skills in these areas.
+
+Feel free to connect with me through any of the provided channels. Let's create something amazing together!
+
+Thank you for visiting my GitHub profile! Don't forget to check out my repositories and give them a ⭐️ if you find them helpful or interesting.
