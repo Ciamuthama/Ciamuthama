@@ -32,9 +32,10 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 
 Here are some of my notable projects:
 
-1. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
-2. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
-3. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
+1. [AnonAnonJot ](https://anonjot.vercel.app/): A MERN stack Web Application for taking and sharing notes nd ideas anonymously. 
+2. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
+3. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
+4. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
 
 Feel free to check out these projects to see my work in action!
 
