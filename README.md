@@ -5,8 +5,13 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 ## 💻 Areas of Expertise
 
 - Front-end development
+  
+- Javascript:
+![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/24px-Unofficial_JavaScript_logo_2.svg.png)
 
-
+- TypeScript:
+![Typescript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/24px-Typescript_logo_2020.svg.png)
+ 
 - React.js:
 ![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/24px-React-icon.svg.png)
 
@@ -21,7 +26,11 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 - MongoDB:
 ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/24px-MongoDB_Logo.svg.png)
 
+- GraphQL
+![GraphQL](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/24px-GraphQL_Logo.svg.png)
+
 - Tailwind CSS:
+![Tailwind](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/24px-Tailwind_CSS_Logo.svg.png)
 
 - Bootstrap:
 ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/24px-Bootstrap_logo.svg.png)
@@ -32,10 +41,11 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 
 Here are some of my notable projects:
 
-1. [AnonAnonJot ](https://anonjot.vercel.app/): A MERN stack Web Application for taking and sharing notes nd ideas anonymously. 
-2. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
-3. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
-4. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
+1. [IdeaTrac](https://ideatrac.vercel.app/): A more advance React TypeScript Notes Web app. 
+2. [AnonJot ](https://anonjot.vercel.app/): A MERN stack Web Application for taking and sharing notes nd ideas anonymously. 
+3. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
+4. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
+5. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
 
 Feel free to check out these projects to see my work in action!
 
