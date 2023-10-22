@@ -41,11 +41,12 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 
 Here are some of my notable projects:
 
-1. [IdeaTrac](https://ideatrac.vercel.app/): A more advance React TypeScript Notes Web app. 
-2. [AnonJot ](https://anonjot.vercel.app/): A MERN stack Web Application for taking and sharing notes nd ideas anonymously. 
-3. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
-4. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
-5. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
+1. [Tusafiri](https://github.com/Ciamuthama/tusafiri): A simple react native travel app UI.  
+2.  [IdeaTrac](https://ideatrac.vercel.app/): A more advance React TypeScript Notes Web app. 
+3. [AnonJot ](https://anonjot.vercel.app/): A MERN stack Web Application for taking and sharing notes nd ideas anonymously. 
+4. [Twiga Foods](https://twiga-foods.vercel.app/): An e-commerce platform for purchasing fresh farm produce landing page.
+5. [NTTI Redesign](https://ntti-redesign.vercel.app/): A website redesign for a tech training institute.
+6. [Bonsai Clone](https://bonsai-clone.vercel.app/): A replica of Bonsai's pricing page to learn UI components.
 
 Feel free to check out these projects to see my work in action!
 
