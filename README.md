@@ -15,6 +15,9 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 - React.js:
 ![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/24px-React-icon.svg.png)
 
+- Svelte:
+![Svelte.js](https://upload.wikimedia.org/wikipedia/commons/b/b5/Cib-svelte_%28CoreUI_Icons_v1.0.0%29.svg)
+
 - Node.js:
 ![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/24px-Node.js_logo.svg.png)
 
