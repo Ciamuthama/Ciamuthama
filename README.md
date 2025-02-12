@@ -15,6 +15,12 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 - React.js:
 ![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/24px-React-icon.svg.png)
 
+- React Native:
+![React Native](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/24px-React-icon.svg.png)
+
+- Kotlin:
+![Kotlin](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/24px-Kotlin_logo_2021.svg.png)
+
 - Svelte:
 ![Svelte.js](https://upload.wikimedia.org/wikipedia/commons/b/b5/Cib-svelte_%28CoreUI_Icons_v1.0.0%29.svg)
 
@@ -38,7 +44,11 @@ I'm Peter Muthama, also known as "Cia Muthama." I'm a self-taught programmer wit
 - Bootstrap:
 ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/24px-Bootstrap_logo.svg.png)
 
+- Ruby on Rails
+![Ruby on Rails](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/24px-Ruby_On_Rails_Logo.svg.png)
 
+- Python
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png)
 
 ## 🌟 Notable Projects
 
