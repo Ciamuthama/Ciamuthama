@@ -5,16 +5,5 @@
 I'm Cia (Peter) Muthama, a guy that fell in love 💞 with code and decided to become a software engineer. I love what I do.
 Check out some of my work in my repos 🙇
 
-## Skills
-
-*Placeholder for skills list*
-
-## Projects
-
-*Placeholder for project details*
-
-## Contact
-
-*Placeholder for contact information*
 
 ## Check out [This One 😉](https://ciamuthama.vercel.app/)
